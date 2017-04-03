@@ -3,7 +3,7 @@ A osu! like simulator for LLSIF
 -
 The original repository "LLSIF_simulator" is lost, so a new repository is created.
 
-New Festures:
+New Features:
 -
 1. Skin setting
 2. Character setting
